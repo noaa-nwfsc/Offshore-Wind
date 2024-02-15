@@ -12,7 +12,7 @@ site: distill::distill_website
 * [VMS pipeline](https://github.com/noaa-nwfsc/VMS-pipeline)
 
 
-* Risk to fisheries from displacement
+* [Risk to fisheries from displacement](https://github.com/noaa-nwfsc/owe-fisheries-risk)
 
 
 
