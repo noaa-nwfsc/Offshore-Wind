@@ -1,0 +1,31 @@
+---
+title: "A Distill Website"
+favicon: "images/favicon.ico"
+image: "images/nmfs-opensci-logo3.png"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+
+## About
+
+This is a distill website using RMarkdown and the postcards package to create the layout for the individual pages. Here postcards layout is only used for the index page, but you can use it for any page. See the [postcards](https://github.com/seankross/postcards) GitHub readme for the different layouts available.
+
+### Set-up
+
+* Install the needed packages. You only need to do this once.
+
+```
+install.packages(c("rmarkdown", "distill", "postcards", "knitr")
+```
+
+### Customize
+
+* `index.Rmd` will be the front page. You can change the layout by changing `postcards::trestles`
+* Edit `_site.yml` to change the top navbar
+* Add pages like `Page1.Rmd` and then add those to `_site.yml`
+* Add your images (like logos) to `images` and a favicon to `favicon.ico`
+
+
+
+
