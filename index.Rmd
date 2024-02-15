@@ -1,5 +1,5 @@
 ---
-title: "Northwest Fisheries Science Center \nOffshore Wind Related Repos"
+title: "Northwest Fisheries Science Center <br> Offshore Wind Related Repos"
 favicon: "images/favicon.ico"
 image: "images/nmfs-opensci-logo3.png"
 output:
@@ -9,10 +9,9 @@ site: distill::distill_website
 
 ## Repos
 
-*VMS pipeline
-*Risk to fisheries from displacement
+* VMS pipeline
+* Risk to fisheries from displacement
 
-```
 
 ### Customize
 
