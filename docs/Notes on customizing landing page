@@ -1,0 +1,6 @@
+### Customize
+
+* `index.Rmd` will be the front page. You can change the layout by changing `postcards::trestles`
+* Edit `_site.yml` to change the top navbar
+* Add pages like `Page1.Rmd` and then add those to `_site.yml`
+* Add your images (like logos) to `images` and a favicon to `favicon.ico`
