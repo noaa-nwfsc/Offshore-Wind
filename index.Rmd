@@ -9,7 +9,7 @@ site: distill::distill_website
 
 ## Repos
 
-* VMS pipeline
+* [VMS pipeline](https://github.com/noaa-nwfsc/VMS-pipeline)
 * Risk to fisheries from displacement
 
 
