@@ -15,6 +15,6 @@ site: distill::distill_website
 * [Risk to fisheries from displacement](https://github.com/noaa-nwfsc/owe-fisheries-risk)
 
 
-
+* [Estimating importance of ocean space for fisheries](https://github.com/noaa-nwfsc/Suitability-analyses)
 
 
